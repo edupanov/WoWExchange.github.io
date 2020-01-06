@@ -39,35 +39,35 @@ body {
     border-radius: 10px;
 }
 
-.img__radio_bucks {
-    background-image: url("../img/bucks.png");
+.img__radio_russ {
+    background-image: url("../img/russ.png");
 }
 
-.img__radio_shawarma {
-    background-image: url("../img/shawarma.png");
+.img__radio_gold {
+    background-image: url("../img/gold.png");
 }
 
-.img__radio_doshirak {
-    background-image: url("../img/doshirak.png");
+.img__radio_dollar {
+    background-image: url("../img/dollar.png");
 }
 
 /*table*/
 
 
-.shawarma {
-    background: url("../img/shawarma.png") center/contain no-repeat;
+.gold {
+    background: url("../img/gold.png") center/contain no-repeat;
     height: 40px;
     width: 60px;
 }
 
-.doshirak {
-    background: url("../img/doshirak.png") center/contain no-repeat;
+.dollar {
+    background: url("../img/dollar.png") center/contain no-repeat;
     height: 40px;
     width: 60px;
 }
 
-.bucks {
-    background: url("../img/bucks.png") center/contain no-repeat;
+.russ {
+    background: url("../img/russ.png") center/contain no-repeat;
     height: 40px;
     width: 60px;
 }

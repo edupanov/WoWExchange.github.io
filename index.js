@@ -29,6 +29,5 @@ document.addEventListener('DOMContentLoaded', () => {
         blockChoice.style.display = 'block';
     });
 
-
-    });
+});
 
