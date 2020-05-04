@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=Comfortaa:wght@400;700&display=swap');
+
 main {
     position: relative;
 }
@@ -31,6 +33,7 @@ body {
     left: 0;
     right: 0;
     bottom: 0;
+
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -82,10 +85,17 @@ body {
     color: #fff;
 }
 
+.head-sort {
+    cursor: pointer;
+}
+
+.head-sort:hover {
+    background-color: rgba(0,0,0, 0.6) !important;
+}
 /*modal*/
 
 .modal {
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: rgba(0, 0, 0, 0.6);
 }
 
 .modal .deadline {
